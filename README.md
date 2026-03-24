@@ -24,6 +24,26 @@ This project is an AI-based chatbot developed using Python and basic Natural Lan
 	4.	Lemmatization is applied to normalize words
 	5.	The chatbot matches keywords and returns relevant responses
 
+## ▶️ How to Run
+	1.	Open Notebook in Google Colab
+	2.	Run all cells
+	3.	Give Google Drive access
+	4.	Interact with the chatbot
+
+## 📸 Screenshots
+
+### 🔹 Chatbot Greeting
+![Greeting](screenshot1.png)
+
+### 🔹 User Asking Product Info
+![Product](screenshot2.png)
+
+### 🔹 Order / Delivery Response
+![Delivery](screenshot3.png)
+
+### 🔹 Error / Unknown Input Handling
+![Error](screenshot4.png)
+
 ## 📁 Project Structure
 	•	ai-chatbot-nlp.ipynb → Main chatbot notebook
 	•	README.md → Project documentation
