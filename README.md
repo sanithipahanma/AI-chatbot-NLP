@@ -35,14 +35,11 @@ This project is an AI-based chatbot developed using Python and basic Natural Lan
 ### 🔹 Chatbot Greeting
 ![Greeting](screenshot1.png)
 
-### 🔹 User Asking Product Info
-![Product](screenshot2.png)
-
-### 🔹 Order / Delivery Response
-![Delivery](screenshot3.png)
+### 🔹 User Asking common Questions
+![General](screenshot2.png)
 
 ### 🔹 Error / Unknown Input Handling
-![Error](screenshot4.png)
+![Error](screenshot3.png)
 
 ## 📁 Project Structure
 	•	ai-chatbot-nlp.ipynb → Main chatbot notebook
